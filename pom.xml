@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.aserranoandres</groupId>
 	<artifactId>inetum-inditex-prices-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>inetum-inditex-prices-api</name>
 	<description>REST API for obtaining product prices</description>
 	<url/>
