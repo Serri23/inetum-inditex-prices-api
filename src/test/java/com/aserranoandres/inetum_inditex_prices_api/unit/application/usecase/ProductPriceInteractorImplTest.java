@@ -1,5 +1,7 @@
-package com.aserranoandres.inetum_inditex_prices_api.application.usecase;
+package com.aserranoandres.inetum_inditex_prices_api.unit.application.usecase;
 
+import com.aserranoandres.inetum_inditex_prices_api.application.usecase.IProductPriceInteractor;
+import com.aserranoandres.inetum_inditex_prices_api.application.usecase.ProductPriceInteractorImpl;
 import com.aserranoandres.inetum_inditex_prices_api.domain.model.ProductPrice;
 import com.aserranoandres.inetum_inditex_prices_api.domain.port.ProductPriceRepositoryPort;
 import com.aserranoandres.inetum_inditex_prices_api.provider.ProductPriceProviderTest;
